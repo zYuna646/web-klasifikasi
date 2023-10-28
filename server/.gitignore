@@ -1,0 +1,24 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Compiled Python source
+*.pyc
+
+# Database files
+*.db
+*.sqlite
+
+# Environment variables file
+.env
+
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
